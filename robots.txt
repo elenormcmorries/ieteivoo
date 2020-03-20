@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://fiwiphohr.higherlimits.ca/sitemap.xml
